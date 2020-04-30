@@ -1,0 +1,6 @@
+Presidential Address: Liquidity and Price Discovery
+
+MAUREEN O'HARA
+
+Abstract
+This paper examines the implications of market microstructure for asset pricing. I argue that asset pricing ignores the central fact that asset prices evolve in markets. Markets provide liquidity and price discovery, and I argue that asset pricing models need to be recast in broader terms to incorporate the transactions costs of liquidity and the risks of price discovery. I argue that symmetric information-based asset pricing models do not work because they assume that the underlying problems of liquidity and price discovery have been solved. I develop an asymmetric information asset pricing model that incorporates these effects.
