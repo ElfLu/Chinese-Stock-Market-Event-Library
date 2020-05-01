@@ -1,0 +1,10 @@
+The Effect of Price Limits on Stock Price Volatility: Empirical Evidence in Korea
+
+Sang-Bin Lee, Kwang-Jung Kim
+
+Journal of Business Finance & Accounting
+
+
+Abstract
+
+A study examines empirically the effect of price limits on stock price volatility in the Korean stock market. It was important to control for other variables besides price limits that may affect stock price volatility. Since the price limit rates in the Korean stock market vary according to stock price levels, the price system of the Korean stock market provide a rare opportunity for examining the relationship between price limits and stock price volatility cross-sectionally. The study compares the return volatilities between high price limit portfolio and low price, which are constructed on the basis of ranked price limit rates. The results show that price limits serve to reduce stock price volatility.
