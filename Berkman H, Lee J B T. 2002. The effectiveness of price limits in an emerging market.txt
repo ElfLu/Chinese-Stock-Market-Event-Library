@@ -1,0 +1,10 @@
+The effectiveness of price limits in an emerging market: Evidence from the Korean Stock Exchange
+
+Henk Berkman, John Byong Tek Lee
+
+Pacific-Basin Finance Journal
+Volume 10, Issue 5, November 2002, Pages 517-530
+
+Abstract
+
+This study investigates the effects of a revision in the price limit system on the Korean Stock Exchange (KSE). The primary finding is that the widening of price limits increased long-term volatility and reduced overall trading volume. It is shown that these adverse effects are larger for small stocks, providing a potential explanation why strict price limits are particularly popular in emerging markets.
