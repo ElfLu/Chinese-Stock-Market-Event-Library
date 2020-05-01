@@ -1,0 +1,13 @@
+Statistical Properties and Pre-Hit Dynamics of Price Limit Hits in the Chinese Stock Markets
+
+Yu-Lei Wan,Wen-Jie Xie,Gao-Feng Gu,Zhi-Qiang Jiang,Wei Chen,Xiong Xiong ,Wei Zhang,Wei-Xing Zhou
+ 
+Published: April 13, 2015
+
+
+Abstract
+
+Price limit trading rules are adopted in some stock markets (especially emerging markets) trying to cool off traders’ short-term trading mania on individual stocks and increase market efficiency. Under such a microstructure, stocks may hit their up-limits and down-limits from time to time. However, the behaviors of price limit hits are not well studied partially due to the fact that main stock markets such as the US markets and most European markets do not set price limits. Here, we perform detailed analyses of the high-frequency data of all A-share common stocks traded on the Shanghai Stock Exchange and the Shenzhen Stock Exchange from 2000 to 2011 to investigate the statistical properties of price limit hits and the dynamical evolution of several important financial variables before stock price hits its limits. We compare the properties of up-limit hits and down-limit hits. We also divide the whole period into three bullish periods and three bearish periods to unveil possible differences during bullish and bearish market states. To uncover the impacts of stock capitalization on price limit hits, we partition all stocks into six portfolios according to their capitalizations on different trading days. We find that the price limit trading rule has a cooling-off effect (object to the magnet effect), indicating that the rule takes effect in the Chinese stock markets. We find that price continuation is much more likely to occur than price reversal on the next trading day after a limit-hitting day, especially for down-limit hits, which has potential practical values for market practitioners.
+
+
+Citation: Wan Y-L, Xie W-J, Gu G-F, Jiang Z-Q, Chen W, Xiong X, et al. (2015) Statistical Properties and Pre-Hit Dynamics of Price Limit Hits in the Chinese Stock Markets. PLoS ONE 10(4): e0120312. https://doi.org/10.1371/journal.pone.0120312
