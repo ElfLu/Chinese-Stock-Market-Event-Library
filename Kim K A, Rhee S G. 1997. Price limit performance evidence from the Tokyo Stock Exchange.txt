@@ -1,0 +1,10 @@
+Price Limit Performance: Evidence from the Tokyo Stock Exchange
+
+February 1997The Journal of Finance 52(2):885-99
+
+Kenneth A. Kim and S. Ghon Rhee
+
+
+Abstract
+
+Price limit advocates claim that price limits decrease stock price volatility, counter overreaction, and do not interfere with trading activity. Conversely, price limit critics claim that price limits cause higher volatility levels on subsequent days (volatility spillover hypothesis), prevent prices from efficiently reaching their equilibrium level (delayed price discovery hypothesis), and interfere with trading due to limitations imposed by price limits (trading interference hypothesis). Empirical research does not provide conclusive support for either positions. The authors examine the Tokyo Stock Exchange price limit system to test these hypotheses. Their evidence supports all three hypotheses suggesting that price limits may be ineffective.
