@@ -1,0 +1,11 @@
+Can price limits help when the price is falling? Evidence from transactions data on the Shanghai Stock Exchange
+
+Woon K.WONG, Bo LIU, Yong ZENG
+
+China Economic Review
+Volume 20, Issue 1, March 2009, Pages 91-102
+
+
+Abstract
+
+We use transactions data to explore the magnet effects of price limit rules on the Shanghai Stock Exchange (SHSE). When limit hits are imminent, stock prices are found to approach the price limits at faster rates, with higher trading intensity and larger price variation, supporting the magnet effect hypothesis of Subrahmanyam [Subrahmanyam, A., 1994. Circuit breakers and market volatility: A theoretical perspective. Journal of Finance, 49, 237–254.]. Moreover, when stock prices approach the floor limits, we observe lower than normal market conditions’ trading volume and trade size but a wider spread. The panic selling psychology of individual investors for fear of illiquidity and the strategic trading decisions of discretionary traders during periods prior to price limit hits at the floors are conjectured as possible explanations for the observed price behaviors. Post-limit-hit analysis reveals evidence of delayed price discovery at the ceiling limit but price reversal at the floor.
